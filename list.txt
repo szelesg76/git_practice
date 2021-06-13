@@ -20,7 +20,11 @@ Sausages
 
 Dairy:
 
-
+Milk
+Eggs
+Yoghurt
+Butter
+Cheese
 
 Houshold:
 
